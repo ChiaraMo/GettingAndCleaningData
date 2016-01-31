@@ -69,6 +69,6 @@ Data are structured in a ``data.table`` of 11880 obs. of 11 variables:
 * all others: ``factor`` variables with 2 levels
 
 #Data transformation
-See ``run_analysis.md``  for details on data set creation.
+See comments in ``run_analysis.R``  for details on data set creation.
 
 
